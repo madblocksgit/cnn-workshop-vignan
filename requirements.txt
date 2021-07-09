@@ -1,0 +1,4 @@
+tensorflow
+gtts
+playsound
+opencv-python
